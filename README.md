@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning | Fusion 360**
 
-- 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://635e9260.streaklinks.com/CVJCNhRPz3vFUrVsawGtPxcF/https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq)
+- 👯 I’m looking to collaborate on [Ball and Beam Balancing System][(https://635e9260.streaklinks.com/CVJCNhRPz3vFUrVsawGtPxcF/https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq)](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
@@ -13,11 +13,10 @@
 
 - 📫 How to reach me **sumeadhms@gmail.com**
 
-- 📄 Know about my experiences [https://635e9260.streaklinks.com/CVJCNhVtbdrLkPrMfQfpv-tF/https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1elBbJHrxLh5RlNYCzZXl9Wvt55G4qSnX%2Fview%3Fusp%3Dsharing](https://635e9260.streaklinks.com/CVJCNhVtbdrLkPrMfQfpv-tF/https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1elBbJHrxLh5RlNYCzZXl9Wvt55G4qSnX%2Fview%3Fusp%3Dsharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumeadh ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeadh ms" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Sumeadh MS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumeadh ms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
