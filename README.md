@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
-- 💬 Ask me about **Python | Control Systems | MATALAB**
+- 💬 Ask me about **Python | Control Systems | Machine Learning**
 
 - 📫 How to reach me **sumeadhms@gmail.com**
 
