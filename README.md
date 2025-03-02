@@ -7,6 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
 
+- 📄 Resume  [View My Resume](https://drive.google.com/file/d/1g-HRVEEcyRvqVLLIz4q5LL3WVyOIylaO/view?usp=drive_link)  
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
