@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning | Fusion 360**
 
-- 👯 I’m looking to collaborate on [Ball and Beam Balancing System][(https://635e9260.streaklinks.com/CVJCNhRPz3vFUrVsawGtPxcF/https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq)](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
+- 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
