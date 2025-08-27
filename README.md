@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sumeadh MS</h1>
 <h3 align="center">A passionate robotics and controls enthusiast</h3>
 
-- 🔭 I’m currently working on [Amphibian Robot](https://github.com/AmphiBot24/Amphi)
 
 - 🌱 I’m currently learning **Reinforcement Learning | Fusion 360**
 
 - 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
 
-- 📄 Resume  [View My Resume](https://drive.google.com/file/d/1kPhhphhaEIILsVMoIGw2DSl_2swKbI1x/view?usp=sharing)  
+- 📄 Resume  [View My Resume](https://drive.google.com/file/d/1trKHPv8upLAi5-aWDVkRBk1rKALaD4PX/view?usp=sharing)  
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
-- 💬 Ask me about **Python | Control Systems | Machine Learning**
+- 💬 Ask me about **Robotics | Control Systems | Machine Learning**
 
 - 📫 How to reach me **sumeadhms@gmail.com**
 
