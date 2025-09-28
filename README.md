@@ -6,8 +6,7 @@
 
 - 👯 I’m looking to collaborate on the [Ball and Beam Balancing System](https://drive.google.com/file/d/1_9gndZgvaUxfbal-UWlXiYc1CsUQpirg/view?usp=sharing).
 
-- 📄 Resume  [View My Resume](https://drive.google.com/file/d/1trKHPv8upLAi5-aWDVkRBk1rKALaD4PX/view?usp=sharing)  
-
+- 📄 Resume  [View My Resume](https://drive.google.com/file/d/1EcV2hItyegx3wxZ-GkqUogqtj6sLXFxY/view?usp=sharing).
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
 - 💬 Ask me about **Robotics | Control Systems | Machine Learning**
