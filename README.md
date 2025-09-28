@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning **
 
-- 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
+- 👯 I’m looking to collaborate on [Ball and Beam Balancing System]([https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing](https://drive.google.com/file/d/1_9gndZgvaUxfbal-UWlXiYc1CsUQpirg/view?usp=sharing))
 
 - 📄 Resume  [View My Resume](https://drive.google.com/file/d/1trKHPv8upLAi5-aWDVkRBk1rKALaD4PX/view?usp=sharing)  
 
