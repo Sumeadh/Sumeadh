@@ -2,7 +2,7 @@
 <h3 align="center">A passionate robotics and controls enthusiast</h3>
 
 
-- 🌱 I’m currently learning **Reinforcement Learning | Fusion 360**
+- 🌱 I’m currently learning **Reinforcement Learning **
 
 - 👯 I’m looking to collaborate on [Ball and Beam Balancing System](https://drive.google.com/drive/folders/1jKYqg85THhRdYLeoeCvqAPgQPalOF2Uq?usp=sharing)
 
