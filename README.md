@@ -3,8 +3,7 @@
 
 
 - 🌱 I’m currently learning **Reinforcement Learning ** **Vision**
-
-- 📄 Resume  [View My Resume]([https://drive.google.com/file/d/1EcV2hItyegx3wxZ-GkqUogqtj6sLXFxY/view?usp=sharing](https://drive.google.com/file/d/1DRcTIHVC5-nivewupbgcZ0zFfQJjcHLg/view?usp=sharing)).
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1EcV2hItyegx3wxZ-GkqUogqtj6sLXFxY/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [https://github.com/Sumeadh](https://github.com/Sumeadh)
 
 - 💬 Ask me about **Robotics | Control Systems | Machine Learning**
